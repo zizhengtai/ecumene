@@ -5,7 +5,7 @@ This is the C implementation for the Ecumene RPC broker.
 ## OS X
 
 ```shell
-brew install libsodium zeromq czmq hiredis jemalloc
+brew install libsodium czmq hiredis jemalloc
 git clone https://github.com/ZizhengTai/ecumene.git && cd ecumene && ./build.sh
 ```
 
