@@ -4,7 +4,7 @@ This is the C implementation for the Ecumene RPC broker, based on [ZeroMQ](http:
 Client/worker libraries in different languages:
 * C++: https://github.com/ZizhengTai/ecumene-cpp
 * Scala: https://github.com/ZizhengTai/ecumene-scala
-* Python: https://github.com/ZizhengTai/ecumene-python
+* Python: https://github.com/ZizhengTai/ecumene-python (WIP)
 
 # Building and Installation
 ## OS X
